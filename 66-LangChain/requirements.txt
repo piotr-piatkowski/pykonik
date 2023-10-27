@@ -1,0 +1,6 @@
+langchain==0.0.324
+langsmith==0.0.52
+openai==0.28.1
+qdrant-client==1.6.4
+sentence-transformers==2.2.2
+pydantic==2.4.2
